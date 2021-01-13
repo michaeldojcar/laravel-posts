@@ -1,6 +1,6 @@
 {
     "name": "michaeldojcar/laravel-posts",
-    "description": "",
+    "description": "Laravel posts module",
     "type": "library",
     "license": "MIT",
     "authors": [
